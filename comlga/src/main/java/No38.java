@@ -1,4 +1,4 @@
-public class ThirtyEight {
+public class No38 {
     private String string;
     /*
     *   1.     1

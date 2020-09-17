@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5be099e-3a7c-45aa-b68f-c04242206c2b" name="Default Changelist" comment="" />
+    <list default="true" id="b5be099e-3a7c-45aa-b68f-c04242206c2b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comlga/src/main/java/M0203.java" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/src/main/java/ListNode/M0203.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comlga/src/main/java/SixtySeven.java" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/src/main/java/No67.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comlga/src/main/java/SixtySix.java" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/src/main/java/No66.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comlga/src/main/java/TenOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/src/main/java/No11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comlga/src/main/java/ThirtyEight.java" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/src/main/java/No38.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comlga/src/main/java/TwitySix.java" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/src/main/java/No26.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +25,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -36,6 +47,9 @@
     <option name="jreName" value="1.8" />
   </component>
   <component name="ProjectId" id="1eIqNuuRsZnOl871nop6aM11A67" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -57,37 +71,37 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TenOne">
-    <configuration name="SixtySeven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SixtySeven" />
+  <component name="RunManager" selected="Application.No11">
+    <configuration name="No11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="No11" />
       <module name="comlga" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SixtySix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SixtySix" />
+    <configuration name="No26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="No26" />
       <module name="comlga" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TenOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TenOne" />
+    <configuration name="No38" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="No38" />
       <module name="comlga" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThirtyEight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThirtyEight" />
+    <configuration name="No66" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="No66" />
       <module name="comlga" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwitySix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TwitySix" />
+    <configuration name="No67" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="No67" />
       <module name="comlga" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -95,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TenOne" />
-        <item itemvalue="Application.TwitySix" />
-        <item itemvalue="Application.SixtySix" />
-        <item itemvalue="Application.SixtySeven" />
-        <item itemvalue="Application.ThirtyEight" />
+        <item itemvalue="Application.No11" />
+        <item itemvalue="Application.No26" />
+        <item itemvalue="Application.No66" />
+        <item itemvalue="Application.No67" />
+        <item itemvalue="Application.No38" />
       </list>
     </recent_temporary>
   </component>
@@ -119,18 +133,29 @@
       <workItem from="1594966377835" duration="5065000" />
       <workItem from="1595034488925" duration="246000" />
       <workItem from="1595211535291" duration="2546000" />
-      <workItem from="1600317311204" duration="563000" />
+      <workItem from="1600317311204" duration="1485000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/comlga/src/main/java/ThirtyEight.java</url>
+          <url>file://$PROJECT_DIR$/comlga/src/main/java/No38.java</url>
           <line>32</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>

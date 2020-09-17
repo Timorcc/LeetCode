@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-public class TenOne {
+public class No11 {
     public static int maxArea(int[] height) {
         List<Integer> list = new ArrayList();
         for (int i = 0; i < height.length - 1; i++) {

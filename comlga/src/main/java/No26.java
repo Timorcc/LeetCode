@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class TwitySix {
+public class No26 {
 
     public static int removeDuplicates(int[] nums) {
         if (nums.length == 0) {
