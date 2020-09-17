@@ -3,12 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b5be099e-3a7c-45aa-b68f-c04242206c2b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comlga/src/main/java/M0203.java" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/src/main/java/ListNode/M0203.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comlga/src/main/java/SixtySeven.java" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/src/main/java/No67.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comlga/src/main/java/SixtySix.java" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/src/main/java/No66.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comlga/src/main/java/TenOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/src/main/java/No11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comlga/src/main/java/ThirtyEight.java" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/src/main/java/No38.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comlga/src/main/java/TwitySix.java" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/src/main/java/No26.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comlga/src/main/java/ListNode/JZOffer22.java" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/src/main/java/ListNode/JZOffer22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comlga/src/main/java/ListNode/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/src/main/java/ListNode/ListNode.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,10 +50,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="D:/chat/back/Java-WebSocket" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -133,7 +130,7 @@
       <workItem from="1594966377835" duration="5065000" />
       <workItem from="1595034488925" duration="246000" />
       <workItem from="1595211535291" duration="2546000" />
-      <workItem from="1600317311204" duration="1485000" />
+      <workItem from="1600317311204" duration="8197000" />
     </task>
     <servers />
   </component>
