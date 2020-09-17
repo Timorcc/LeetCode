@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5be099e-3a7c-45aa-b68f-c04242206c2b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/comlga/src/main/java/ListNode/JZOffer18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comlga/src/main/java/ListNode/JZOffer52.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comlga/src/main/java/ListNode/M0207.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comlga/src/main/java/ListNode/No1290.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comlga/src/main/java/ListNode/No203.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comlga/src/main/java/ListNode/No234.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comlga/src/main/java/ListNode/No83.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comlga/src/main/java/ListNode/JZOffer22.java" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/src/main/java/ListNode/JZOffer22.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comlga/src/main/java/ListNode/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/src/main/java/ListNode/ListNode.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +73,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.No11">
+  <component name="RunManager" selected="Application.test">
     <configuration name="No11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="No11" />
       <module name="comlga" />
@@ -78,13 +83,6 @@
     </configuration>
     <configuration name="No26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="No26" />
-      <module name="comlga" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="No38" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="No38" />
       <module name="comlga" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -104,13 +102,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ListNode.test" />
+      <module name="comlga" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ListNode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.test" />
         <item itemvalue="Application.No11" />
         <item itemvalue="Application.No26" />
         <item itemvalue="Application.No66" />
         <item itemvalue="Application.No67" />
-        <item itemvalue="Application.No38" />
       </list>
     </recent_temporary>
   </component>
@@ -130,7 +141,7 @@
       <workItem from="1594966377835" duration="5065000" />
       <workItem from="1595034488925" duration="246000" />
       <workItem from="1595211535291" duration="2546000" />
-      <workItem from="1600317311204" duration="8197000" />
+      <workItem from="1600317311204" duration="18998000" />
     </task>
     <servers />
   </component>
