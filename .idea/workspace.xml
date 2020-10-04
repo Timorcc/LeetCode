@@ -2,54 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5be099e-3a7c-45aa-b68f-c04242206c2b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comlga/comlga.iml" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/comlga.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comlga/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comlga/src/main/java/String/No434.java" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/src/main/java/String/No434.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comlga/target/classes/ListNode/JZOffer06.class" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/target/classes/ListNode/JZOffer06.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comlga/target/classes/ListNode/JZOffer18.class" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/target/classes/ListNode/JZOffer18.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comlga/target/classes/ListNode/JZOffer22.class" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/target/classes/ListNode/JZOffer22.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comlga/target/classes/ListNode/JZOffer24.class" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/target/classes/ListNode/JZOffer24.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comlga/target/classes/ListNode/JZOffer52.class" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/target/classes/ListNode/JZOffer52.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comlga/target/classes/ListNode/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/target/classes/ListNode/ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comlga/target/classes/ListNode/M0201.class" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/target/classes/ListNode/M0201.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comlga/target/classes/ListNode/M0202.class" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/target/classes/ListNode/M0202.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comlga/target/classes/ListNode/M0203.class" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/target/classes/ListNode/M0203.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comlga/target/classes/ListNode/M0206.class" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/target/classes/ListNode/M0206.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comlga/target/classes/ListNode/M0207.class" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/target/classes/ListNode/M0207.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comlga/target/classes/ListNode/NiuKeNC21.class" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/target/classes/ListNode/NiuKeNC21.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comlga/target/classes/ListNode/No1290.class" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/target/classes/ListNode/No1290.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comlga/target/classes/ListNode/No203.class" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/target/classes/ListNode/No203.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comlga/target/classes/ListNode/No206.class" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/target/classes/ListNode/No206.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comlga/target/classes/ListNode/No21.class" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/target/classes/ListNode/No21.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comlga/target/classes/ListNode/No234.class" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/target/classes/ListNode/No234.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comlga/target/classes/ListNode/No237.class" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/target/classes/ListNode/No237.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comlga/target/classes/ListNode/No83.class" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/target/classes/ListNode/No83.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comlga/target/classes/ListNode/No876.class" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/target/classes/ListNode/No876.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comlga/target/classes/ListNode/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/target/classes/ListNode/test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comlga/target/classes/No11.class" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/target/classes/No11.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comlga/target/classes/No26.class" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/target/classes/No26.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comlga/target/classes/No38.class" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/target/classes/No38.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comlga/target/classes/No66.class" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/target/classes/No66.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comlga/target/classes/No67.class" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/target/classes/No67.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comlga/target/classes/Sqrt.class" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/target/classes/Sqrt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comlga/target/classes/StackQueue/CQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/target/classes/StackQueue/CQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comlga/target/classes/StackQueue/JZOffer09.class" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/target/classes/StackQueue/JZOffer09.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comlga/target/classes/StackQueue/M0302$MinStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/target/classes/StackQueue/M0302$MinStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comlga/target/classes/StackQueue/M0302.class" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/target/classes/StackQueue/M0302.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comlga/target/classes/StackQueue/M0304$MyQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/target/classes/StackQueue/M0304$MyQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comlga/target/classes/StackQueue/M0304.class" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/target/classes/StackQueue/M0304.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comlga/target/classes/StackQueue/No1021.class" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/target/classes/StackQueue/No1021.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comlga/target/classes/StackQueue/No1544.class" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/target/classes/StackQueue/No1544.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comlga/target/classes/StackQueue/No155.class" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/target/classes/StackQueue/No155.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comlga/target/classes/StackQueue/No20.class" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/target/classes/StackQueue/No20.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comlga/target/classes/StackQueue/No496.class" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/target/classes/StackQueue/No496.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comlga/target/classes/StackQueue/No496BaoLi.class" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/target/classes/StackQueue/No496BaoLi.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comlga/target/classes/StackQueue/No682.class" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/target/classes/StackQueue/No682.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comlga/target/classes/StackQueue/No844.class" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/target/classes/StackQueue/No844.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comlga/target/classes/String/No1576.class" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/target/classes/String/No1576.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comlga/target/classes/String/No459.class" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/target/classes/String/No459.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -218,7 +171,8 @@
       <workItem from="1601298467235" duration="1215000" />
       <workItem from="1601426972875" duration="7863000" />
       <workItem from="1601515190026" duration="15204000" />
-      <workItem from="1601645456833" duration="7194000" />
+      <workItem from="1601645456833" duration="8865000" />
+      <workItem from="1601776121619" duration="3291000" />
     </task>
     <servers />
   </component>
@@ -248,7 +202,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/comlga/src/main/java/String/No13.java</url>
-          <line>70</line>
+          <line>71</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
