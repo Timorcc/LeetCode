@@ -3,30 +3,22 @@ package String;
 public class No67 {
     public String addBinary(String a, String b) {
 
-        int i = a.length() - 1;
-        int j = b.length() - 1;
-        int carry = 0;
-        StringBuilder sb = new StringBuilder();
-        while (i >= 0 && j >= 0) {
-            int sum = carry;
-            sum += a.charAt(i--) - '0';
-            sum += b.charAt(j--) - '0';
-            carry = sum / 2;
-            sb.append(sum % 2);
+        StringBuffer ans = new StringBuffer();
+
+        int n = Math.max(a.length(), b.length()), carry = 0;
+        for (int i = 0; i < n; ++i) {
+            carry += i < a.length() ? (a.charAt(a.length() - 1 - i) - '0') : 0;
+            carry += i < b.length() ? (b.charAt(b.length() - 1 - i) - '0') : 0;
+            ans.append((char) (carry % 2 + '0'));
+            carry /= 2;
         }
-        while (i >= 0) {
-            int sum = carry + a.charAt(i--) - '0';
-            carry = sum / 2;
-            sb.append(sum % 2);
+
+        if (carry > 0) {
+            ans.append('1');
         }
-        while (j >= 0) {
-            int sum = carry + a.charAt(j--) - '0';
-            carry = sum / 2;
-            sb.append(sum % 2);
-        }
-        if (carry == 1) {
-            sb.append(carry);
-        }
-        return sb.toString();
+        ans.reverse();
+
+        return ans.toString();
+
     }
 }
