@@ -1,3 +1,5 @@
+package oters;
+
 public class No38 {
     private String string;
     /*

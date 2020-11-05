@@ -1,3 +1,5 @@
+package oters;
+
 public class No67 {
     public static String addBinary(String a, String b) {
         return Integer.toBinaryString(

@@ -1,18 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="b5be099e-3a7c-45aa-b68f-c04242206c2b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comlga/src/main/java/String/No67.java" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/src/main/java/String/No67.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comlga/src/main/java/No11.java" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/src/main/java/oters/No11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comlga/src/main/java/No26.java" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/src/main/java/oters/No26.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comlga/src/main/java/No38.java" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/src/main/java/oters/No38.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comlga/src/main/java/No66.java" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/src/main/java/oters/No66.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comlga/src/main/java/No67.java" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/src/main/java/oters/No67.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comlga/src/main/java/Sqrt.java" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/src/main/java/oters/Sqrt.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="leetcode" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -27,12 +49,12 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\Program Files\IntelliJ IDEA 2020.2.3\plugins\maven\lib\maven3" />
         <option name="userSettingsFile" value="C:\install\maven\apache-maven-3.6.2\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
       <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
         <option name="jdkForImporter" value="1.8" />
         <option name="vmOptionsForImporter" value="-Xmx1024m" />
       </MavenImportingSettings>
@@ -45,27 +67,19 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="D:/chat/back/Java-WebSocket" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../chat/back/Java-WebSocket" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Application.No13">
     <configuration name="N058" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -143,6 +157,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -182,30 +197,30 @@
       <workItem from="1602033314479" duration="10825000" />
       <workItem from="1602205779646" duration="908000" />
       <workItem from="1602470078282" duration="440000" />
+      <workItem from="1604506003958" duration="77000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/comlga/src/main/java/No38.java</url>
+          <url>file://$PROJECT_DIR$/comlga/src/main/java/oters/No38.java</url>
           <line>32</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>

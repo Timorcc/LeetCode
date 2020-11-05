@@ -1,3 +1,5 @@
+package oters;
+
 public class Sqrt {
     public static int solution(int x){
         return (int)Math.sqrt(x);
