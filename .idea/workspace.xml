@@ -24,12 +24,15 @@
   <component name="ChangeListManager">
     <list default="true" id="b5be099e-3a7c-45aa-b68f-c04242206c2b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comlga/src/main/java/No11.java" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/src/main/java/oters/No11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comlga/src/main/java/No26.java" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/src/main/java/oters/No26.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comlga/src/main/java/No38.java" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/src/main/java/oters/No38.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comlga/src/main/java/No66.java" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/src/main/java/oters/No66.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comlga/src/main/java/No67.java" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/src/main/java/oters/No67.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comlga/src/main/java/Sqrt.java" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/src/main/java/oters/Sqrt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comlga/src/main/java/JzOffer/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/src/main/java/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comlga/src/main/java/String/No344.java" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/src/main/java/String/No344.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comlga/target/classes/No11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/comlga/target/classes/No26.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/comlga/target/classes/No38.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/comlga/target/classes/No66.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/comlga/target/classes/No67.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/comlga/target/classes/Sqrt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/comlga/target/classes/String/No13.class" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/target/classes/String/No13.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,13 +78,19 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../chat/back/Java-WebSocket" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
-  <component name="RunManager" selected="Application.No13">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="N058" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="String.N058" />
       <module name="comlga" />
@@ -101,19 +110,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="String.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="No20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StackQueue.No20" />
-      <module name="comlga" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="StackQueue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,13 +143,37 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Test" />
+      <module name="comlga" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.No13" />
         <item itemvalue="Application.N058" />
         <item itemvalue="Application.No459" />
         <item itemvalue="Application.No844" />
-        <item itemvalue="Application.No20" />
       </list>
     </recent_temporary>
   </component>
@@ -198,6 +218,10 @@
       <workItem from="1602205779646" duration="908000" />
       <workItem from="1602470078282" duration="440000" />
       <workItem from="1604506003958" duration="77000" />
+      <workItem from="1604506096438" duration="296000" />
+      <workItem from="1604537528535" duration="725000" />
+      <workItem from="1604538297658" duration="8000" />
+      <workItem from="1607841234854" duration="9494000" />
     </task>
     <servers />
   </component>
@@ -215,6 +239,40 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="485" y="242" width="930" height="340" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1607841483818">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="485" y="242" width="930" height="340" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.1536.824@0.0.1536.824" timestamp="1607841483818" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1607842563737">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607842563737" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1607842563737">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1607842563737" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1607842563737">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1607842563737" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1607842563737">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1607842563737" />
+    <state x="270" y="57" key="SettingsEditor" timestamp="1607849355540">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1607849355540" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1604537939432">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1604537939432" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1607856820469">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1607856820469" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
