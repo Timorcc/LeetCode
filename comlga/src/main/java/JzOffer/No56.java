@@ -10,35 +10,27 @@ import java.util.List;
  */
 public class No56 {
     public ListNode deleteDuplication(ListNode pHead) {
-
         if (pHead == null || pHead.next == null) { // 只有0个或1个结点，则返回
             return pHead;
         }
         //构造头节点
         ListNode headNode = new ListNode(0);
         headNode.next = pHead;
-
         ListNode pre = headNode;
         ListNode last = pHead;
-
         while (last != null) {
             if (last.next != null && last.val == last.next.val) {
                 while (last.next != null && last.val == last.next.val) {
                     last = last.next;
                 }
-
                 pre.next = last.next;
                 last = last.next;
-
             }else {
                 pre = pre.next;
                 last = last.next;
             }
         }
-
         return headNode.next;
-
-
     }
 
     class ListNode {
