@@ -24,8 +24,10 @@
   <component name="ChangeListManager">
     <list default="true" id="b5be099e-3a7c-45aa-b68f-c04242206c2b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comlga/src/main/java/JzOffer/No56.java" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/src/main/java/JzOffer/No56.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/comlga/src/main/java/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/src/main/java/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comlga/target/classes/JzOffer/No3$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/target/classes/JzOffer/No3$ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comlga/target/classes/JzOffer/No3.class" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/target/classes/JzOffer/No3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comlga/target/classes/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/target/classes/Test.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +43,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/comlga/src/main/java/JzOffer/No21.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -81,15 +86,28 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunManager" selected="Application.Test (1)">
-    <configuration name="N058" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String.N058" />
+    <configuration name="BinaryInsertSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sort.BinaryInsertSort" />
       <module name="comlga" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="String.*" />
+          <option name="PATTERN" value="sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InsertSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sort.InsertSort" />
+      <module name="comlga" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,19 +117,6 @@
     </configuration>
     <configuration name="No13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="String.No13" />
-      <module name="comlga" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="String.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="No459" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String.No459" />
       <module name="comlga" />
       <extension name="coverage">
         <pattern>
@@ -143,15 +148,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -159,10 +162,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.InsertSort" />
+        <item itemvalue="Application.BinaryInsertSort" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.No13" />
-        <item itemvalue="Application.N058" />
-        <item itemvalue="Application.No459" />
       </list>
     </recent_temporary>
   </component>
@@ -211,7 +214,15 @@
       <workItem from="1604537528535" duration="725000" />
       <workItem from="1604538297658" duration="8000" />
       <workItem from="1607841234854" duration="10167000" />
-      <workItem from="1607908103510" duration="14382000" />
+      <workItem from="1607908103510" duration="15038000" />
+      <workItem from="1607949125849" duration="350000" />
+      <workItem from="1608007024036" duration="8593000" />
+      <workItem from="1608087234342" duration="11310000" />
+      <workItem from="1608166820185" duration="2793000" />
+      <workItem from="1608516354535" duration="103000" />
+      <workItem from="1608516498125" duration="249000" />
+      <workItem from="1608533918976" duration="11000" />
+      <workItem from="1608638592541" duration="4317000" />
     </task>
     <servers />
   </component>
@@ -235,50 +246,66 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="485" y="242" width="930" height="340" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.1536.824@0.0.1536.824" timestamp="1607841483818" />
-    <state width="1478" height="207" key="GridCell.Tab.0.bottom" timestamp="1607928944321">
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1608516749158">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="207" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607928944321" />
-    <state width="1478" height="207" key="GridCell.Tab.0.center" timestamp="1607928944321">
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1608516749158" />
+    <state width="1493" height="2" key="GridCell.Tab.0.bottom" timestamp="1608642776019">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="207" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1607928944321" />
-    <state width="1478" height="207" key="GridCell.Tab.0.left" timestamp="1607928944321">
+    <state width="1493" height="2" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608642776019" />
+    <state width="1493" height="2" key="GridCell.Tab.0.center" timestamp="1608642776019">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="207" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1607928944321" />
-    <state width="1478" height="207" key="GridCell.Tab.0.right" timestamp="1607928944321">
+    <state width="1493" height="2" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1608642776019" />
+    <state width="1493" height="2" key="GridCell.Tab.0.left" timestamp="1608642776019">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="207" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1607928944321" />
-    <state width="1478" height="258" key="GridCell.Tab.1.bottom" timestamp="1607927933195">
+    <state width="1493" height="2" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1608642776019" />
+    <state width="1493" height="2" key="GridCell.Tab.0.right" timestamp="1608642776019">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="258" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607927933195" />
-    <state width="1478" height="258" key="GridCell.Tab.1.center" timestamp="1607927933194">
+    <state width="1493" height="2" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1608642776019" />
+    <state width="1493" height="260" key="GridCell.Tab.1.bottom" timestamp="1608041208828">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="258" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1607927933194" />
-    <state width="1478" height="258" key="GridCell.Tab.1.left" timestamp="1607927933194">
+    <state width="1493" height="260" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608041208828" />
+    <state width="1493" height="260" key="GridCell.Tab.1.center" timestamp="1608041208828">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="258" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1607927933194" />
-    <state width="1478" height="258" key="GridCell.Tab.1.right" timestamp="1607927933195">
+    <state width="1493" height="260" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1608041208828" />
+    <state width="1493" height="260" key="GridCell.Tab.1.left" timestamp="1608041208828">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="258" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1607927933195" />
-    <state x="270" y="57" key="SettingsEditor" timestamp="1607849355540">
+    <state width="1493" height="260" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1608041208828" />
+    <state width="1493" height="260" key="GridCell.Tab.1.right" timestamp="1608041208828">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="270" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1607849355540" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1604537939432">
+    <state width="1493" height="260" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1608041208828" />
+    <state x="270" y="57" key="SettingsEditor" timestamp="1608516388075">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1604537939432" />
+    <state x="270" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1608516388075" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1607945482057">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1607945482057" />
+    <state x="256" y="111" width="1260" height="508" key="dock-window-1" timestamp="1608642512260">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="256" y="111" width="1260" height="508" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1608642512260" />
+    <state x="499" y="172" key="extract.method.dialog" timestamp="1608642258847">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="172" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1608642258847" />
     <state x="463" y="117" width="600" height="594" key="find.popup" timestamp="1607933413632">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="463" y="117" width="600" height="594" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1607933413632" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1608093173227">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1608093173227" />
     <state x="431" y="146" width="672" height="678" key="search.everywhere.popup" timestamp="1607927157160">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

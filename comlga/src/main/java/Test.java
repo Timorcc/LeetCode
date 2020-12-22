@@ -1,20 +1,16 @@
-import java.util.ArrayList;
-import java.util.List;
+import java.util.Arrays;
 
 public class Test {
-    public static void main(String[] args) {
-        List list = new ArrayList();
-        list.add(0,10);
-        list.add(1,11);
-        list.add(2,12);
-        list.add(3,13);
-        list.add(3,14);
-        list.add(0,15);
-        list.add(3,16);
-        list.add(3,17);
-        list.add(3,18);
-        list.add(3,19);
+    public static void insertSort(int[] arr) {
 
-        System.out.println(list);
+
+        System.out.println(Arrays.toString(arr));
+    }
+
+
+    public static void main(String[] args) {
+        int[] arr = {9, 8, 7, 6, 5, 4, 3, 2, 1, 0};
+        insertSort(arr);
+
     }
 }
