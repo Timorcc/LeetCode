@@ -8,5 +8,10 @@ package JzOffer;
  * 例如，当绳子的长度是8时，我们把它剪成长度分别为2、3、3的三段，此时得到的最大乘积是18。
  */
 public class No67 {
+    public int cutRope(int target) {
+
+
+        return 0;
+    }
 
 }

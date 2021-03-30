@@ -23,8 +23,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5be099e-3a7c-45aa-b68f-c04242206c2b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comlga/src/main/java/JzOffer/No67.java" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/src/main/java/JzOffer/No67.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comlga/src/main/java/Singleton/Ehan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/comlga/src/main/java/Singleton/Lhan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/comlga/src/main/java/Singleton/Singleton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/comlga/src/main/java/Singleton/SingletonDemo.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/comlga/src/main/java/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/src/main/java/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comlga/target/classes/JzOffer/No67.class" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/target/classes/JzOffer/No67.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comlga/target/classes/Singleton/Ehan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/comlga/target/classes/Singleton/Lhan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/comlga/target/classes/Singleton/Singleton.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/comlga/target/classes/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/target/classes/Test.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +45,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -68,9 +79,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../chat/back/Java-WebSocket" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../langting/a/langting-system-medicalrecord" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -81,15 +93,17 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Test (1)">
-    <configuration name="BinaryInsertSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sort.BinaryInsertSort" />
+  <component name="RunManager" selected="Application.No15">
+    <configuration name="No11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="huawei.No11" />
       <module name="comlga" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sort.*" />
+          <option name="PATTERN" value="huawei.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InsertSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sort.InsertSort" />
+    <configuration name="No12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="huawei.No12" />
       <module name="comlga" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sort.*" />
+          <option name="PATTERN" value="huawei.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="No9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JzOffer.No9" />
+    <configuration name="No13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="huawei.No13" />
       <module name="comlga" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JzOffer.*" />
+          <option name="PATTERN" value="huawei.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,19 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test" />
-      <module name="comlga" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.Test" />
+    <configuration name="No14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="huawei.No14" />
       <module name="comlga" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="huawei.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,24 +150,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
+    <configuration name="No15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="huawei.No15" />
+      <module name="comlga" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="huawei.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test (1)" />
-        <item itemvalue="Application.No9" />
-        <item itemvalue="Application.InsertSort" />
-        <item itemvalue="Application.BinaryInsertSort" />
-        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.No15" />
+        <item itemvalue="Application.No14" />
+        <item itemvalue="Application.No13" />
+        <item itemvalue="Application.No12" />
+        <item itemvalue="Application.No11" />
       </list>
     </recent_temporary>
   </component>
@@ -223,6 +232,42 @@
       <workItem from="1608776895991" duration="53000" />
       <workItem from="1608800315760" duration="23000" />
       <workItem from="1608887811295" duration="9295000" />
+      <workItem from="1608946571590" duration="10928000" />
+      <workItem from="1608992492076" duration="1189000" />
+      <workItem from="1609057755431" duration="7213000" />
+      <workItem from="1609076986219" duration="565000" />
+      <workItem from="1609117876221" duration="2498000" />
+      <workItem from="1609162039259" duration="4353000" />
+      <workItem from="1609203602337" duration="2180000" />
+      <workItem from="1609290630008" duration="4895000" />
+      <workItem from="1609376995456" duration="8601000" />
+      <workItem from="1609732445319" duration="3260000" />
+      <workItem from="1609809027290" duration="1189000" />
+      <workItem from="1609895479363" duration="10560000" />
+      <workItem from="1609988759504" duration="5076000" />
+      <workItem from="1610006841256" duration="3988000" />
+      <workItem from="1610068319847" duration="21792000" />
+      <workItem from="1610413665000" duration="3406000" />
+      <workItem from="1610507352491" duration="180000" />
+      <workItem from="1614437479992" duration="1901000" />
+      <workItem from="1614478888128" duration="27393000" />
+      <workItem from="1614686983651" duration="1494000" />
+      <workItem from="1614690215807" duration="946000" />
+      <workItem from="1614696421439" duration="37193000" />
+      <workItem from="1615343575772" duration="4728000" />
+      <workItem from="1615354237632" duration="2642000" />
+      <workItem from="1615362353157" duration="7000" />
+      <workItem from="1615362939915" duration="203000" />
+      <workItem from="1615382066792" duration="3516000" />
+      <workItem from="1615431534956" duration="3600000" />
+      <workItem from="1615533841513" duration="4153000" />
+      <workItem from="1615770340861" duration="9000" />
+      <workItem from="1615798376851" duration="3284000" />
+      <workItem from="1615817093022" duration="5990000" />
+      <workItem from="1615972974746" duration="4000" />
+      <workItem from="1616683372867" duration="36619000" />
+      <workItem from="1616979582493" duration="9000" />
+      <workItem from="1617022282985" duration="6037000" />
     </task>
     <task id="LOCAL-00001" summary="1214">
       <created>1608642989032</created>
@@ -262,86 +307,111 @@
     <option name="LAST_COMMIT_MESSAGE" value="1214" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="523" y="0" key="#Auto_Import" timestamp="1615817121919">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="523" y="0" key="#Auto_Import/0.0.1536.824@0.0.1536.824" timestamp="1615817121919" />
     <state x="640" y="311" key="#Custom_Plugin_Repositories" timestamp="1608776809533">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="640" y="311" key="#Custom_Plugin_Repositories/0.0.1536.824@0.0.1536.824" timestamp="1608776809533" />
-    <state x="485" y="242" width="930" height="340" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1607841483818">
+    <state x="574" y="118" key="#com.intellij.ide.util.MemberChooser" timestamp="1615433697170">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="485" y="242" width="930" height="340" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.1536.824@0.0.1536.824" timestamp="1607841483818" />
-    <state x="574" y="118" key="#com.intellij.ide.util.MemberChooser" timestamp="1608898369629">
+    <state x="574" y="118" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1615433697170" />
+    <state x="544" y="301" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1615169754527">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="574" y="118" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1608898369629" />
+    <state x="544" y="301" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1615169754527" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1615432149866">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1615432149866" />
+    <state x="499" y="159" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1615346844949">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1536.824@0.0.1536.824" timestamp="1615346844949" />
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1608516749158">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1608516749158" />
-    <state width="1493" height="88" key="GridCell.Tab.0.bottom" timestamp="1608903557875">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1615361254526">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="88" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608903557875" />
-    <state width="1493" height="88" key="GridCell.Tab.0.center" timestamp="1608903557875">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1615361254526" />
+    <state width="1493" height="262" key="GridCell.Tab.0.bottom" timestamp="1617028633179">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="88" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1608903557875" />
-    <state width="1493" height="88" key="GridCell.Tab.0.left" timestamp="1608903557875">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1493" height="228" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1615875827191" />
+    <state width="1493" height="204" key="GridCell.Tab.0.bottom/0.0.1536.834/-1920.0.1920.1050@0.0.1536.834" timestamp="1616844991453" />
+    <state width="1493" height="262" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1617028633179" />
+    <state width="1493" height="262" key="GridCell.Tab.0.center" timestamp="1617028633179">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="88" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1608903557875" />
-    <state width="1493" height="88" key="GridCell.Tab.0.right" timestamp="1608903557875">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1493" height="228" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1615875827191" />
+    <state width="1493" height="204" key="GridCell.Tab.0.center/0.0.1536.834/-1920.0.1920.1050@0.0.1536.834" timestamp="1616844991453" />
+    <state width="1493" height="262" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1617028633179" />
+    <state width="1493" height="262" key="GridCell.Tab.0.left" timestamp="1617028633179">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="88" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1608903557875" />
-    <state width="1493" height="260" key="GridCell.Tab.1.bottom" timestamp="1608041208828">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1493" height="228" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1615875827191" />
+    <state width="1493" height="204" key="GridCell.Tab.0.left/0.0.1536.834/-1920.0.1920.1050@0.0.1536.834" timestamp="1616844991453" />
+    <state width="1493" height="262" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1617028633179" />
+    <state width="1493" height="262" key="GridCell.Tab.0.right" timestamp="1617028633179">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="260" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608041208828" />
-    <state width="1493" height="260" key="GridCell.Tab.1.center" timestamp="1608041208828">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1493" height="228" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1615875827191" />
+    <state width="1493" height="204" key="GridCell.Tab.0.right/0.0.1536.834/-1920.0.1920.1050@0.0.1536.834" timestamp="1616844991453" />
+    <state width="1493" height="262" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1617028633179" />
+    <state width="1493" height="262" key="GridCell.Tab.1.bottom" timestamp="1617028633180">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="260" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1608041208828" />
-    <state width="1493" height="260" key="GridCell.Tab.1.left" timestamp="1608041208828">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1493" height="260" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1615801773309" />
+    <state width="1493" height="262" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1617028633180" />
+    <state width="1493" height="262" key="GridCell.Tab.1.center" timestamp="1617028633179">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="260" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1608041208828" />
-    <state width="1493" height="260" key="GridCell.Tab.1.right" timestamp="1608041208828">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1493" height="260" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1615801773309" />
+    <state width="1493" height="262" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1617028633179" />
+    <state width="1493" height="262" key="GridCell.Tab.1.left" timestamp="1617028633179">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="260" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1608041208828" />
+    <state width="1493" height="260" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1615801773309" />
+    <state width="1493" height="262" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1617028633179" />
+    <state width="1493" height="262" key="GridCell.Tab.1.right" timestamp="1617028633180">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1615801773309" />
+    <state width="1493" height="262" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1617028633180" />
     <state x="403" y="173" key="MultipleFileMergeDialog" timestamp="1608643035354">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="403" y="173" key="MultipleFileMergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1608643035354" />
-    <state x="270" y="57" key="SettingsEditor" timestamp="1608776860078">
+    <state x="270" y="0" key="SettingsEditor" timestamp="1615208207737">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="270" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1608776860078" />
+    <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1615208207737" />
     <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1608643000273">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1608643000273" />
-    <state x="256" y="111" width="1260" height="508" key="dock-window-1" timestamp="1608642512260">
+    <state x="540" y="224" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1615352033643">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="256" y="111" width="1260" height="508" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1608642512260" />
+    <state x="540" y="224" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1615352033643" />
+    <state x="256" y="111" width="1260" height="508" key="dock-window-1" timestamp="1615432384642">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="256" y="111" width="1260" height="508" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1615432384642" />
     <state x="499" y="172" key="extract.method.dialog" timestamp="1608642258847">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="172" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1608642258847" />
-    <state x="463" y="117" width="600" height="594" key="find.popup" timestamp="1607933413632">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="431" y="148" width="672" height="687" key="search.everywhere.popup" timestamp="1617028043068">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="463" y="117" width="600" height="594" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1607933413632" />
-    <state x="425" y="187" key="run.anything.popup" timestamp="1608093173227">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1608093173227" />
-    <state x="431" y="146" width="672" height="678" key="search.everywhere.popup" timestamp="1607927157160">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="431" y="146" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1607927157160" />
+    <state x="431" y="146" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1614773215280" />
+    <state x="431" y="148" width="672" height="687" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1617028043068" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -355,6 +425,11 @@
           <url>file://$PROJECT_DIR$/comlga/src/main/java/String/No13.java</url>
           <line>71</line>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/comlga/src/main/java/Leetcode/No402.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
