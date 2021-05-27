@@ -1,3 +1,5 @@
+package meituan;
+
 import java.util.Scanner;
 
 /**
@@ -19,13 +21,11 @@ public class Meituan04 {
         System.out.println(getRes(arr, k));
     }
 
-
     public static int getRes(int[] arr, int len) {
         if (arr.length==0|| len> arr.length){
             return 0;
         }
         int res = 0;
-
         for (int i = 0; i <= arr.length - len; i++) {
             for (int j = 0; j < len; j++) {
                 res = Math.max(res, arr[i] ^ arr[i + j]);

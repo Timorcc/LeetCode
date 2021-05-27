@@ -1,6 +1,7 @@
 package bean;
 
 import java.util.Comparator;
+import java.util.Objects;
 
 /**
  * @author lga
@@ -35,5 +36,19 @@ public class Dog implements Comparator<Dog> {
     @Override
     public int compare(Dog o1, Dog o2) {
         return o1.age-o2.age;
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (!(o instanceof Dog)) return false;
+        Dog dog = (Dog) o;
+        return age == dog.age &&
+                weight == dog.weight;
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(age, weight);
     }
 }
