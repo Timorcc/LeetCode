@@ -24,7 +24,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b5be099e-3a7c-45aa-b68f-c04242206c2b" name="Default Changelist" comment="0330">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comlga/src/main/java/tree/No95.java" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/src/main/java/tree/No95.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comlga/src/main/java/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/comlga/src/main/java/Test2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -319,7 +319,7 @@
       <workItem from="1622553659517" duration="3475000" />
       <workItem from="1622729765632" duration="800000" />
       <workItem from="1624176677387" duration="1420000" />
-      <workItem from="1624459166230" duration="8514000" />
+      <workItem from="1624459166230" duration="12245000" />
     </task>
     <task id="LOCAL-00001" summary="1214">
       <created>1608642989032</created>

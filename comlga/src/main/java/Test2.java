@@ -11,7 +11,9 @@ import java.util.concurrent.locks.ReentrantLock;
 
 public class Test2 {
     public static void main(String[] args) {
-
+        boolean res ;
+        res = true && false;
+        System.out.println(false);
     }
 }
 
