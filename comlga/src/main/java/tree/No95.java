@@ -15,11 +15,10 @@ public class No95 {
         if (n == 0) {
             return new ArrayList<TreeNode>();
         }
-        return getRes(1, n );
+        return getRes(1, n);
     }
 
-
-    public List<TreeNode> getRes(int low, int high) {
+    public static List<TreeNode> getRes(int low, int high) {
         List<TreeNode> res = new ArrayList<>();
         if (low > high) {
             res.add(null);
@@ -38,5 +37,9 @@ public class No95 {
             }
         }
         return res;
+    }
+
+    public static void main(String[] args) {
+        getRes(1,3);
     }
 }
