@@ -23,7 +23,6 @@ public class Quick {
         arr[i] = temp;
         sort(arr, low, i - 1);
         sort(arr, i + 1, high);
-
     }
 
 
